@@ -1,6 +1,6 @@
 # IMovi
 
-compartilho com vocês um projeto particular de um website totalmente responsivo com versão mobile, construído com Bootstrap 5.
+* Compartilho com vocês um projeto particular, um website totalmente responsivo com versão mobile, construído com Bootstrap 5.
 <br/><br/>
 <p><b>Desktop:<b/><p/>
 <img src="https://user-images.githubusercontent.com/89361754/159529533-2a715e15-9806-4fda-8af3-d334dfb8c808.JPG" style="float:right;width:700px">

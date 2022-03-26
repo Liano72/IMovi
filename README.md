@@ -1,4 +1,4 @@
-# IMovi
+# 🏡 IMovi
 
 Compartilho com vocês esse projeto com finalidade de estudo. Um website totalmente responsivo, visa a projeção de sites para se adaptar em qualquer tipo tela. Utilizei também o conceito de mobile first que prioriza inicialmente o desenvolvimento no formato mobile.
 

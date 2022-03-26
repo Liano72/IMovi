@@ -1,6 +1,14 @@
 # IMovi
 
-* Compartilho com vocês um projeto particular, um website totalmente responsivo com versão mobile, construído com Bootstrap 5.
+Compartilho com vocês esse projeto com finalidade de estudo. Um website totalmente responsivo, visa a projeção de sites para se adaptar em qualquer tipo tela. Utilizei também o conceito de mobile first que prioriza inicialmente o desenvolvimento no formato mobile.
+
+
+# Ferramentas utilizadas
+
+* HTML
+* CSS
+* Bootstrap 5
+
 <br/><br/>
 <p><b>Desktop:<b/><p/>
  
